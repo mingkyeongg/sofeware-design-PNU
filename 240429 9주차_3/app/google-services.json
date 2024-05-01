@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809844737999",
+    "project_id": "test-c902e",
+    "storage_bucket": "test-c902e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809844737999:android:ea8ea79eb3d458b85634ba",
+        "android_client_info": {
+          "package_name": "com.example.ex03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbKxIJhUApFxWewYVu-qpXi_bHV4l_nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
